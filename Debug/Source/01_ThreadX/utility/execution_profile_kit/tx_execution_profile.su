@@ -1,0 +1,13 @@
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:142:7:_tx_execution_initialize	4	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:192:7:_tx_execution_thread_enter	64	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:297:7:_tx_execution_thread_exit	72	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:425:7:_tx_execution_isr_enter	104	static,ignoring_inline_asm
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:603:7:_tx_execution_isr_exit	64	static,ignoring_inline_asm
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:730:7:_tx_execution_thread_time_reset	16	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:778:7:_tx_execution_thread_total_time_reset	32	static,ignoring_inline_asm
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:847:7:_tx_execution_isr_time_reset	4	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:895:7:_tx_execution_idle_time_reset	4	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:944:7:_tx_execution_thread_time_get	16	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:992:7:_tx_execution_thread_total_time_get	16	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:1040:7:_tx_execution_isr_time_get	16	static
+../Source/01_ThreadX/utility/execution_profile_kit/tx_execution_profile.c:1088:7:_tx_execution_idle_time_get	16	static

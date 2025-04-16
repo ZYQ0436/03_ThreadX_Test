@@ -1,0 +1,1 @@
+../Source/01_ThreadX/common/src/tx_thread_stack_analyze.c:72:7:_tx_thread_stack_analyze	64	static,ignoring_inline_asm
